@@ -15,7 +15,7 @@ jogo_dino/
     ├── jump_sound.wav
     ├── death_sound.wav
     ├── score_sound.wav
-    └── smw_coin.wav        # som de moeda (gerado, substitua pelo seu se tiver o original)
+    └── smw_coin.wav        # som de moeda
 ```
 
 ## Rodar no PyCharm
